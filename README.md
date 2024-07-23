@@ -1,2 +1,2 @@
-<h1> ENTER THE DUNGEON: </h1>
-[CLICK HERE](https://lamoirex.github.io/resume/)
+# ENTER THE DUNGEON:
+## [CLICK HERE](https://lamoirex.github.io/resume/)
